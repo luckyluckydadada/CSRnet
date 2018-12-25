@@ -67,22 +67,24 @@ B部分由稀疏人群场景图像组成。
 
 实际图片：
 
-<img src="https://github.com/Neerajj9/CSRNet-keras/blob/master/test_images/IMG_105.jpg" width="480">
+<img src="https://github.com/luckyluckydadada/CSRnet/blob/master/image/0.9734313601422697.png" width="480">
 
 生成的密度图 : 
 
-<img src="https://github.com/Neerajj9/CSRNet-keras/blob/master/results/105.jpg" width="480">
+<img src="https://github.com/luckyluckydadada/CSRnet/blob/master/image/0.4779446876370941.png" width="480">
 
 实际人数: 258
 预测人数: 232
 
 ## 结果
+
 下面给出了我们模型产生的MAE误差之间的比较。
+
 | Dataset | MAE |  
 | ------------------- | ------------- |
 |ShanghaiTech part A | 65.92 | 
 |ShanghaiTech part B | 11.01 |
 
 ## 参考
-
+https://github.com/Neerajj9/CSRNet-keras
 
